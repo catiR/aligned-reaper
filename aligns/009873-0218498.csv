@@ -1,0 +1,10 @@
+Begin,End,Label,Type,Speaker
+0.68,1.0,nei,words,009873
+1.95,2.22,en,words,009873
+2.22,2.7,þú,words,009873
+0.68,0.77,n,phones,009873
+0.77,1.0,eiː,phones,009873
+1.95,2.06,ɛ,phones,009873
+2.06,2.22,n,phones,009873
+2.22,2.23,θ,phones,009873
+2.23,2.7,uː,phones,009873

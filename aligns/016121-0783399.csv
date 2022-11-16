@@ -1,0 +1,10 @@
+Begin,End,Label,Type,Speaker
+0.7,1.11,bara,words,016121
+1.11,1.4,hann,words,016121
+0.7,0.77,p,phones,016121
+0.77,1.03,aː,phones,016121
+1.03,1.04,r,phones,016121
+1.04,1.11,a,phones,016121
+1.11,1.24,h,phones,016121
+1.24,1.33,a,phones,016121
+1.33,1.4,n,phones,016121

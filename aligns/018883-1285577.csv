@@ -1,0 +1,10 @@
+Begin,End,Label,Type,Speaker
+0.54,0.88,hótelhaldari,words,018883
+0.88,1.1,hana,words,018883
+1.1,2.71,bauju,words,018883
+0.54,0.88,spn,phones,018883
+0.88,0.95,h,phones,018883
+0.95,1.02,aː,phones,018883
+1.02,1.05,n,phones,018883
+1.05,1.1,a,phones,018883
+1.1,2.71,spn,phones,018883

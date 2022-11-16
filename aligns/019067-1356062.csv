@@ -1,0 +1,11 @@
+Begin,End,Label,Type,Speaker
+1.01,1.23,var,words,019067
+1.23,1.35,hann,words,019067
+1.35,2.13,uppstoppaður,words,019067
+1.01,1.07,v,phones,019067
+1.07,1.2,aː,phones,019067
+1.2,1.23,r,phones,019067
+1.23,1.26,h,phones,019067
+1.26,1.29,a,phones,019067
+1.29,1.35,n,phones,019067
+1.35,2.13,spn,phones,019067

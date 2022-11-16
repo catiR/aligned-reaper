@@ -1,0 +1,11 @@
+Begin,End,Label,Type,Speaker
+0.4,0.9,allan,words,010769
+0.9,1.43,dag,words,010769
+0.4,0.66,a,phones,010769
+0.66,0.69,t,phones,010769
+0.69,0.74,l,phones,010769
+0.74,0.79,a,phones,010769
+0.79,0.9,n,phones,010769
+0.9,0.94,t,phones,010769
+0.94,1.23,aː,phones,010769
+1.23,1.43,ɣ,phones,010769

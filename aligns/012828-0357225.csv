@@ -1,0 +1,7 @@
+Begin,End,Label,Type,Speaker
+0.32,0.41,hann,words,012828
+0.41,1.16,skarpi,words,012828
+0.32,0.35,h,phones,012828
+0.35,0.38,a,phones,012828
+0.38,0.41,n,phones,012828
+0.41,1.16,spn,phones,012828

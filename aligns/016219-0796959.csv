@@ -1,0 +1,15 @@
+Begin,End,Label,Type,Speaker
+0.69,1.21,hvar,words,016219
+1.21,1.43,var,words,016219
+1.43,1.99,mamma,words,016219
+0.69,0.84,k,phones,016219
+0.84,0.86,v,phones,016219
+0.86,1.08,aː,phones,016219
+1.08,1.21,r,phones,016219
+1.21,1.23,v,phones,016219
+1.23,1.42,aː,phones,016219
+1.42,1.43,r,phones,016219
+1.43,1.62,m,phones,016219
+1.62,1.67,a,phones,016219
+1.67,1.86,m,phones,016219
+1.86,1.99,a,phones,016219

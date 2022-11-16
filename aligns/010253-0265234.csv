@@ -1,0 +1,11 @@
+Begin,End,Label,Type,Speaker
+0.93,1.26,hvað,words,010253
+1.26,1.43,er,words,010253
+1.43,2.49,keilusnið,words,010253
+0.93,1.05,k,phones,010253
+1.05,1.07,v,phones,010253
+1.07,1.21,aː,phones,010253
+1.21,1.26,ð,phones,010253
+1.26,1.35,ɛː,phones,010253
+1.35,1.43,r,phones,010253
+1.43,2.49,spn,phones,010253

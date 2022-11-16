@@ -1,0 +1,7 @@
+Begin,End,Label,Type,Speaker
+0.42,0.69,hann,words,012723
+0.79,1.74,ketil,words,012723
+0.42,0.53,h,phones,012723
+0.53,0.59,a,phones,012723
+0.59,0.69,n,phones,012723
+0.79,1.74,spn,phones,012723

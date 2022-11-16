@@ -1,0 +1,11 @@
+Begin,End,Label,Type,Speaker
+0.61,0.8,hvar,words,018031
+0.8,0.95,er,words,018031
+0.95,1.41,innland,words,018031
+0.61,0.7,k,phones,018031
+0.7,0.72,v,phones,018031
+0.72,0.79,aː,phones,018031
+0.79,0.8,r,phones,018031
+0.8,0.89,ɛː,phones,018031
+0.89,0.95,r,phones,018031
+0.95,1.41,spn,phones,018031

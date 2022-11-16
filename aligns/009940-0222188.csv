@@ -1,0 +1,13 @@
+Begin,End,Label,Type,Speaker
+0.92,1.21,hvar,words,009940
+1.21,1.49,er,words,009940
+1.49,2.0,hann,words,009940
+0.92,0.95,k,phones,009940
+0.95,0.97,v,phones,009940
+0.97,1.2,aː,phones,009940
+1.2,1.21,r,phones,009940
+1.21,1.46,ɛː,phones,009940
+1.46,1.49,r,phones,009940
+1.49,1.59,h,phones,009940
+1.59,1.67,a,phones,009940
+1.67,2.0,n,phones,009940

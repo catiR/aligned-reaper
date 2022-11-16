@@ -1,0 +1,7 @@
+Begin,End,Label,Type,Speaker
+1.06,1.2,blótar,words,013616
+1.2,1.54,hann,words,013616
+1.06,1.2,spn,phones,013616
+1.2,1.26,h,phones,013616
+1.26,1.31,a,phones,013616
+1.31,1.54,n,phones,013616

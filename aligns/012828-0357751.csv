@@ -1,0 +1,15 @@
+Begin,End,Label,Type,Speaker
+0.12,0.36,ert,words,012828
+0.36,0.5,þú,words,012828
+0.5,0.99,thomas,words,012828
+1.02,1.53,lang,words,012828
+0.12,0.23,ɛ,phones,012828
+0.23,0.32,r̥,phones,012828
+0.32,0.36,t,phones,012828
+0.36,0.37,θ,phones,012828
+0.37,0.5,uː,phones,012828
+0.5,0.99,spn,phones,012828
+1.02,1.08,l,phones,012828
+1.08,1.17,au,phones,012828
+1.17,1.41,ŋ,phones,012828
+1.41,1.53,k,phones,012828

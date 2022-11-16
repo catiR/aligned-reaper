@@ -1,0 +1,12 @@
+Begin,End,Label,Type,Speaker
+1.0,1.21,hvað,words,010011
+1.21,1.68,kætir,words,010011
+1.68,2.06,þig,words,010011
+1.0,1.08,k,phones,010011
+1.08,1.1,v,phones,010011
+1.1,1.2,aː,phones,010011
+1.2,1.21,ð,phones,010011
+1.21,1.68,spn,phones,010011
+1.68,1.69,θ,phones,010011
+1.69,1.85,ɪː,phones,010011
+1.85,2.06,ɣ,phones,010011

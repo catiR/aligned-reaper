@@ -1,0 +1,12 @@
+Begin,End,Label,Type,Speaker
+1.62,1.91,alveg,words,010620
+1.91,2.55,satt,words,010620
+1.62,1.73,a,phones,010620
+1.73,1.82,l,phones,010620
+1.82,1.84,v,phones,010620
+1.84,1.89,ɛ,phones,010620
+1.89,1.91,ɣ,phones,010620
+1.91,2.03,s,phones,010620
+2.03,2.21,a,phones,010620
+2.21,2.41,h,phones,010620
+2.41,2.55,t,phones,010620

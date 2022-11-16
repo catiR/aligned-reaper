@@ -1,0 +1,11 @@
+Begin,End,Label,Type,Speaker
+0.83,1.16,hans,words,010076
+1.2,1.75,eigin,words,010076
+0.83,0.94,h,phones,010076
+0.94,1.0,a,phones,010076
+1.0,1.06,n,phones,010076
+1.06,1.16,s,phones,010076
+1.2,1.29,ei,phones,010076
+1.29,1.51,j,phones,010076
+1.51,1.59,ɪ,phones,010076
+1.59,1.75,n,phones,010076

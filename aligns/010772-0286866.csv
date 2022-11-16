@@ -1,0 +1,16 @@
+Begin,End,Label,Type,Speaker
+1.17,1.53,hann,words,010772
+1.53,2.08,gísli,words,010772
+2.08,2.57,minn,words,010772
+1.17,1.32,h,phones,010772
+1.32,1.35,a,phones,010772
+1.35,1.53,n,phones,010772
+1.53,1.59,c,phones,010772
+1.59,1.71,i,phones,010772
+1.71,1.9,s,phones,010772
+1.9,1.94,t,phones,010772
+1.94,1.99,l,phones,010772
+1.99,2.08,ɪ,phones,010772
+2.08,2.15,m,phones,010772
+2.15,2.23,ɪ,phones,010772
+2.23,2.57,n,phones,010772

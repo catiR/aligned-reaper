@@ -1,0 +1,11 @@
+Begin,End,Label,Type,Speaker
+0.7,0.99,hvað,words,013712
+0.99,1.1,er,words,013712
+1.1,1.73,sniðill,words,013712
+0.7,0.8,k,phones,013712
+0.8,0.82,v,phones,013712
+0.82,0.96,aː,phones,013712
+0.96,0.99,ð,phones,013712
+0.99,1.06,ɛː,phones,013712
+1.06,1.1,r,phones,013712
+1.1,1.73,spn,phones,013712

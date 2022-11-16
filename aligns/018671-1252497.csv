@@ -1,0 +1,16 @@
+Begin,End,Label,Type,Speaker
+0.4,0.62,leigt,words,018671
+0.62,0.93,út,words,018671
+0.93,0.98,í,words,018671
+0.98,1.98,heild,words,018671
+0.4,0.43,l,phones,018671
+0.43,0.56,ei,phones,018671
+0.56,0.59,x,phones,018671
+0.59,0.62,t,phones,018671
+0.62,0.88,uː,phones,018671
+0.88,0.93,t,phones,018671
+0.93,0.98,iː,phones,018671
+0.98,1.35,h,phones,018671
+1.35,1.53,ei,phones,018671
+1.53,1.65,l,phones,018671
+1.65,1.98,t,phones,018671

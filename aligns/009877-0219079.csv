@@ -1,0 +1,15 @@
+Begin,End,Label,Type,Speaker
+0.4,0.64,var,words,009877
+0.64,0.94,hann,words,009877
+1.02,1.68,hérna,words,009877
+0.4,0.48,v,phones,009877
+0.48,0.61,aː,phones,009877
+0.61,0.64,r,phones,009877
+0.64,0.73,h,phones,009877
+0.73,0.82,a,phones,009877
+0.82,0.94,n,phones,009877
+1.02,1.03,ç,phones,009877
+1.03,1.14,ɛ,phones,009877
+1.14,1.32,t,phones,009877
+1.32,1.39,n,phones,009877
+1.39,1.68,a,phones,009877

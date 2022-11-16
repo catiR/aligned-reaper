@@ -1,0 +1,7 @@
+Begin,End,Label,Type,Speaker
+0.15,0.67,blótar,words,013288
+0.67,0.92,hann,words,013288
+0.15,0.67,spn,phones,013288
+0.67,0.72,h,phones,013288
+0.72,0.82,a,phones,013288
+0.82,0.92,n,phones,013288

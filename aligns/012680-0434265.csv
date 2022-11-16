@@ -1,0 +1,16 @@
+Begin,End,Label,Type,Speaker
+0.49,1.0,stærðar,words,012680
+1.0,1.4,hellir,words,012680
+0.49,0.63,s,phones,012680
+0.63,0.67,t,phones,012680
+0.67,0.77,ai,phones,012680
+0.77,0.78,r,phones,012680
+0.78,0.87,ð,phones,012680
+0.87,0.95,a,phones,012680
+0.95,1.0,r,phones,012680
+1.0,1.04,h,phones,012680
+1.04,1.12,ɛ,phones,012680
+1.12,1.17,t,phones,012680
+1.17,1.23,l,phones,012680
+1.23,1.28,ɪ,phones,012680
+1.28,1.4,r,phones,012680
