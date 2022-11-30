@@ -1,0 +1,17 @@
+Begin,End,Label,Type,Speaker
+0.62,0.75,hann,words,025513
+0.75,0.95,heitir,words,025513
+0.95,1.365375,hannes,words,025513
+0.62,0.68,h,phones,025513
+0.68,0.72,a,phones,025513
+0.72,0.75,n,phones,025513
+0.75,0.78,h,phones,025513
+0.78,0.85,eiː,phones,025513
+0.85,0.89,t,phones,025513
+0.89,0.92,ɪ,phones,025513
+0.92,0.95,r,phones,025513
+0.95,0.98,h,phones,025513
+0.98,1.06,a,phones,025513
+1.06,1.17,n,phones,025513
+1.17,1.31,ɛ,phones,025513
+1.31,1.365375,s,phones,025513

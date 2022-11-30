@@ -1,0 +1,17 @@
+Begin,End,Label,Type,Speaker
+0.42,0.67,hann,words,012470
+0.67,1.01,heitir,words,012470
+1.01,1.65,hannes,words,012470
+0.42,0.55,h,phones,012470
+0.55,0.59,a,phones,012470
+0.59,0.67,n,phones,012470
+0.67,0.75,h,phones,012470
+0.75,0.87,eiː,phones,012470
+0.87,0.95,t,phones,012470
+0.95,0.98,ɪ,phones,012470
+0.98,1.01,r,phones,012470
+1.01,1.11,h,phones,012470
+1.11,1.14,a,phones,012470
+1.14,1.31,n,phones,012470
+1.31,1.37,ɛ,phones,012470
+1.37,1.65,s,phones,012470

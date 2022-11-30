@@ -1,0 +1,17 @@
+Begin,End,Label,Type,Speaker
+0.15,0.34,hann,words,030221
+0.34,0.57,heitir,words,030221
+0.57,1.2,hannes,words,030221
+0.15,0.25,h,phones,030221
+0.25,0.31,a,phones,030221
+0.31,0.34,n,phones,030221
+0.34,0.37,h,phones,030221
+0.37,0.45,eiː,phones,030221
+0.45,0.5,t,phones,030221
+0.5,0.53,ɪ,phones,030221
+0.53,0.57,r,phones,030221
+0.57,0.62,h,phones,030221
+0.62,0.7,a,phones,030221
+0.7,0.85,n,phones,030221
+0.85,0.95,ɛ,phones,030221
+0.95,1.2,s,phones,030221

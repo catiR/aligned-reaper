@@ -1,0 +1,17 @@
+Begin,End,Label,Type,Speaker
+0.89,1.07,hann,words,025517
+1.07,1.27,heitir,words,025517
+1.27,1.8,hannes,words,025517
+0.89,1.01,h,phones,025517
+1.01,1.04,a,phones,025517
+1.04,1.07,n,phones,025517
+1.07,1.11,h,phones,025517
+1.11,1.17,eiː,phones,025517
+1.17,1.21,t,phones,025517
+1.21,1.24,ɪ,phones,025517
+1.24,1.27,r,phones,025517
+1.27,1.4,h,phones,025517
+1.4,1.46,a,phones,025517
+1.46,1.64,n,phones,025517
+1.64,1.77,ɛ,phones,025517
+1.77,1.8,s,phones,025517
